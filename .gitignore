@@ -1,0 +1,4 @@
+echo ".venv/" >> .gitignore
+echo "creditcard.csv" >> .gitignore
+echo "*.pkl" >> .gitignore
+echo "*.h5" >> .gitignore
